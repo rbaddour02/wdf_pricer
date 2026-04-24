@@ -1,0 +1,30 @@
+section,key,month,value,time,active
+meta,curve_family,,wdf,,
+meta,asof_date,,2/10/2026,,
+meta,asof_time,,16:32,,
+param,cov_window_days,,252,,
+param,shrink_lambda,,0.1,,
+param,z,,1.5,,
+param,sigma_min,,0.01,,
+param,sigma_max,,5,,
+param,half_life_min,,1440,,
+base,base_ws,A01,57.3573,,
+base,base_ws,A02,46.8523,,
+base,base_ws,A03,41.5998,,
+base,base_ws,A04,38.4483,,
+base,base_ws,A05,36.9776,,
+base,base_ws,A06,34.8766,,
+base,base_ws,A07,34.8766,,
+base,base_ws,A08,35.5069,,
+base,base_ws,A09,36.714975,,
+base,base_ws,A10,37.92305,,
+base,base_ws,A11,36.5059255,,
+base,base_ws,A12,35.088801,,
+base,base_ws,A13,33.6716765,,
+base,base_ws,A14,32.8291755,,
+base,base_ws,A15,31.9866745,,
+anchor,anchor_ws,A05+A06+A07,35.2968,2/10/2026 15:32,1
+anchor,anchor_ws,A01,56.9371,2/10/2026 15:32,1
+anchor,anchor_ws,A02+A03+A04,42.02,2/10/2026 15:32,1
+anchor,anchor_ws,A01,55.675,2/10/2026 15:32,1
+anchor,anchor_ws,A01,54.626,2/10/2026 16:32,1
